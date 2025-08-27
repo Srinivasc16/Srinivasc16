@@ -107,14 +107,6 @@
 
 ---
 
-
-<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tech-Java%20|%20Spring%20|%20AI-blue?style=for-the-badge" />
-
-</div>
-
----
-
 <div align="center">
   
   ### <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> Thanks for visiting! Let's connect and build something amazing together!
