@@ -201,7 +201,7 @@
 <!-- Horizontal Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" /> GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" /> Advanced GitHub Analytics
 
 <div align="center">
 
@@ -209,12 +209,12 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srinivasc16&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=srinivasc16&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Srinivas's%20GitHub%20Stats" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=srinivasc16&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=srinivasc16&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
 
 </td>
 </tr>
@@ -224,30 +224,114 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasc16&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasc16&layout=donut&theme=radical&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srinivasc16&theme=radical" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srinivasc16&theme=radical&utcOffset=5.5" alt="Productive Time" />
 
 </td>
 </tr>
 </table>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivasc16&bg_color=0d1117&color=ff6b6b&line=4c8ed8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+### 📈 Contribution Metrics
+<table>
+<tr>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srinivasc16&theme=radical" alt="Repos per Language" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srinivasc16&theme=radical" alt="Most Commit Language" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srinivasc16&theme=radical" alt="Profile Stats" />
+
+</td>
+</tr>
+</table>
+
+<!-- 3D Contribution Calendar -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivasc16&bg_color=0d1117&color=ff6b6b&line=4c8ed8&point=ffffff&area=true&hide_border=true&custom_title=Srinivas's%20Contribution%20Journey" width="100%" alt="Activity Graph" />
+
+### 🏅 Detailed Performance Metrics
+<img src="https://myreadme.vercel.app/api/embed/srinivasc16?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Detailed Metrics" />
 
 </div>
 
 <!-- Horizontal Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> Achievements & Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> Achievements & Recognition
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=srinivasc16&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=srinivasc16&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=3&column=4" alt="GitHub Trophies" />
+
+### 🌟 Achievement Badges
+<table>
+<tr>
+<td align="center">
+
+<img src="https://holopin.me/srinivasc16" alt="Holopin Badges" />
+
+</td>
+</tr>
+</table>
+
+### 📊 Repository Insights
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎯 Total Stars Earned**  
+<img src="https://img.shields.io/github/stars/srinivasc16?style=for-the-badge&logo=github&color=gold&labelColor=black" />
+
+</td>
+<td align="center" width="50%">
+
+**🚀 Total Forks**  
+<img src="https://img.shields.io/github/forks/srinivasc16?style=for-the-badge&logo=github&color=blue&labelColor=black" />
+
+</td>
+</tr>
+</table>
+
+### 🎖️ Coding Achievements
+<table>
+<tr>
+<td align="center" width="25%">
+
+**💻 Commits**  
+<img src="https://img.shields.io/badge/Total%20Commits-1000+-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
+
+</td>
+<td align="center" width="25%">
+
+**📝 Issues Solved**  
+<img src="https://img.shields.io/badge/Issues%20Solved-50+-orange?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+<td align="center" width="25%">
+
+**🔄 Pull Requests**  
+<img src="https://img.shields.io/badge/PRs%20Merged-30+-purple?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+<td align="center" width="25%">
+
+**⭐ Repositories**  
+<img src="https://img.shields.io/badge/Public%20Repos-20+-red?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -282,38 +366,139 @@
 <!-- Horizontal Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" /> Coding Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" /> Competitive Programming & Coding Stats
 
 <div align="center">
 
+### 🎯 LeetCode Journey
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
-**⚡ Daily Coding Time**  
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=srinivasc16&theme=radical&hide_border=true&layout=compact)
+![LeetCode Stats](https://leetcode.card.workers.dev/srinivasc13?theme=dark&font=baloo&extension=null)
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
-**🎯 Problem Solving Stats**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/srinivasc13?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=srinivasc13&theme=dark)
 
 </td>
 </tr>
 </table>
+
+### 🏆 Competitive Programming Profiles
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**CodeChef**  
+![CodeChef](https://cp-logo.vercel.app/codechef/srinivasc16)  
+<img src="https://img.shields.io/badge/Rating-⭐%20Active-brightgreen?style=for-the-badge" />
+
+</td>
+<td align="center" width="25%">
+
+**Codeforces**  
+![Codeforces](https://cp-logo.vercel.app/codeforces/23r21a3316)  
+<img src="https://img.shields.io/badge/Rating-🚀%20Growing-blue?style=for-the-badge" />
+
+</td>
+<td align="center" width="25%">
+
+**LeetCode**  
+![LeetCode](https://cp-logo.vercel.app/leetcode/srinivasc13)  
+<img src="https://img.shields.io/badge/Problems-🔥%20Solving-orange?style=for-the-badge" />
+
+</td>
+<td align="center" width="25%">
+
+**HackerEarth**  
+![HackerEarth](https://cp-logo.vercel.app/hackerearth/23r21a3316)  
+<img src="https://img.shields.io/badge/Rank-⚡%20Climbing-red?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+### ⚡ Daily Coding Statistics
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**📊 Weekly Coding Time**  
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=srinivasc16&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Wakatime Stats" />
+
+</td>
+<td align="center" width="50%">
+
+**🔥 Coding Streak**  
+<img src="https://streak-stats.demolab.com?user=srinivasc16&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="Coding Streak" />
+
+</td>
+</tr>
+</table>
+
+### 🌟 Problem Solving Heat Map
+<img src="https://ghchart.rshah.org/409ba5/srinivasc16" alt="GitHub Contribution Chart" width="100%" />
 
 </div>
 
 <!-- Horizontal Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="35" /> Latest Blog Posts & Activities
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="35" /> Recent Activity & Projects
 
 <div align="center">
 
-<!-- GitHub Activity -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivasc16&repo=MindCraftAI&theme=radical&hide_border=true" />
+### 🚀 Featured Repositories
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivasc16&repo=MindCraftAI&theme=radical&hide_border=true" alt="MindCraftAI Repo" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivasc16&repo=portfolio-website&theme=radical&hide_border=true" alt="Portfolio Repo" />
+
+</td>
+</tr>
+</table>
+
+### 📈 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!-- This section will be automatically updated with GitHub Actions -->
+<!--END_SECTION:activity-->
+
+### 🌟 Contribution Timeline
+<img src="https://github-readme-stats.vercel.app/api?username=srinivasc16&show_icons=true&count_private=true&theme=radical&hide_border=true&custom_title=📊%20Contribution%20Overview&include_all_commits=true" alt="Contribution Stats" />
+
+### 🎯 Code Quality Metrics
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🔍 Code Reviews**  
+<img src="https://img.shields.io/badge/Reviews%20Given-25+-success?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+**🐛 Bug Fixes**  
+<img src="https://img.shields.io/badge/Bugs%20Fixed-40+-important?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+**✨ Features Added**  
+<img src="https://img.shields.io/badge/Features%20Added-60+-informational?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
