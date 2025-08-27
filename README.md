@@ -100,7 +100,6 @@
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasc16&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600" />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivasc16&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="800" />
 </div>
