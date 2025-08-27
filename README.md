@@ -107,22 +107,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35"> Achievements
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=srinivasc16&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-  
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Current Projects
-
-<div align="center">
-
-### <img src="https://img.icons8.com/color/30/000000/artificial-intelligence.png"/> MindCraftAI
-*Innovative AI-powered application currently in development*
 
 <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Tech-Java%20|%20Spring%20|%20AI-blue?style=for-the-badge" />
